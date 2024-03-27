@@ -1,0 +1,11 @@
+TipoDocumentoVendedor;NúmeroDocumentoVendedor
+Tipo0;691
+IDProducto7;2
+Tipo1;582
+IDProducto0;5
+Tipo0;959
+IDProducto4;9
+Tipo2;79
+IDProducto0;4
+Tipo2;231
+IDProducto0;3
